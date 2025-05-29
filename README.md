@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm HMTETA, and I'm a _very_ new coder wanting to collaborate and build games with friends. 
+## I work as a chemist and product developer, and like hikes with my wife, and our dog. 
 <!--
 **HMTETA/HMTETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
